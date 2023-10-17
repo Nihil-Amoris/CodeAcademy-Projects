@@ -1,0 +1,93 @@
+/* ELEMENTS */
+body {
+  font-family: 'Source Code Pro', monospace;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+/* CLASSES */
+.container {
+  border: 2px solid gray;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+.color-pannel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  font-weight: bold;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.font-pannel {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  font-weight: bold;
+  margin: 20px auto;
+  min-height: 100px;
+}
+
+.color-red {
+  background-color: red;
+}
+.color-green {
+  background-color: green;
+}
+.color-blue {
+  background-color: blue;
+  color: white;
+}
+.color-purple {
+  background-color: purple;
+  color: white;
+}
+.color-orange {
+  background-color: orange;
+}
+.color-black {
+  background-color: black;
+  color: white;
+}
+.font-poppins {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+.font-roboto {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.font-code {
+  font-family: "Source Code Pro", monospace;
+  font-weight: 400;
+}
+.regular {
+  font-style: normal;
+}
+.bold {
+  font-weight: 700;
+}
+.italic {
+  font-style: italic;
+}
+.text-pannel h1 {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: 'Source Code Pro', monospace;
+}
+.text-pannel h2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+}
+.text-pannel p {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+}
+
+
