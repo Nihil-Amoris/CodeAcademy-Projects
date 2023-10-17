@@ -1,0 +1,43 @@
+/* IDs */
+#banner {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    background-image: url(../../resources/images/pattern.jpg);
+    text-align: center;
+}
+
+/* CLASSES */
+.hacksaw {
+    background-color: mediumspringgreen;
+}
+
+.art-frames {
+    background-color:lightcoral
+}
+
+.paint {
+    background-color:skyblue;
+}
+.titles {
+    font-weight: bold;
+}
+
+.price {
+    
+    color: blue;
+}
+
+/* ELEMENTS */
+body {
+    text-align: left;
+    margin: 250px 50px 250px 50px;
+    
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
